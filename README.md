@@ -11,5 +11,7 @@ Add cronjob:
 ```
 
 Install grafana 
+
 Configure PSQL datasource
+
 Import dashboard
