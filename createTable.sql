@@ -13,3 +13,5 @@ CREATE TABLE IF NOT EXISTS monitoring_entry (
 );
 
 grant all privileges on database monitoring to monitor;
+grant all privileges on table monitoring_entry_id_seq to monitor;
+grant all privileges on table monitoring_entry to monitor;
